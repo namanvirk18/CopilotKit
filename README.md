@@ -1,5 +1,5 @@
 <div align=center>
-<img width="100" height="100" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" />
+<img width="110" height="110" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" />
 
 # CopilotKit
 
