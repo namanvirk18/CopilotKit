@@ -17,8 +17,6 @@ Build **agent-native applications** with generative UI, shared state, and human-
 
 </div>
 
-[![CopilotKit](https://github.com/user-attachments/assets/aeb56c28-c766-44a5-810c-5d999bb6a32a)](https://go.copilotkit.ai/copilotkit-docs)
-
 <div align="center" style="display:flex;justify-content:start;gap:16px;height:20px;margin: 0;">
   <a href="https://www.npmjs.com/package/@copilotkit/react-core" target="_blank">
     <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-core?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
@@ -46,6 +44,4 @@ Build **agent-native applications** with generative UI, shared state, and human-
     </a>
 
   </div>
-
----
 
