@@ -3,7 +3,7 @@
 
 # CopilotKit
 
-Build **agent-native applications** with generative UI, shared state, and human-in-the-loop workflows.
+<p style="margin: 10px 0;">Build <strong>agent-native applications</strong> with generative UI, shared state, and human-in-the-loop workflows.</p>
 
 <a href="https://www.npmjs.com/package/@copilotkit/react-core" target="_blank">
   <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-core?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
@@ -15,7 +15,7 @@ Build **agent-native applications** with generative UI, shared state, and human-
   <img src="https://img.shields.io/discord/1122926057641742418?logo=discord&logoColor=%23FFFFFF&label=Discord&color=%236963ff" alt="Discord">
 </a>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0 !important; margin-top: 20px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0 !important; margin-top: 10px;">
 <tbody style="border: 0 !important;">
 <tr style="border: 0 !important;">
 <td style="border: 0 !important; padding: 0;"><a href="https://trendshift.io/repositories/5730" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5730" alt="Trendshift" width="250" height="55" style="border: 0 !important; display: block;"/></a></td>
