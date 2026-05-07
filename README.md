@@ -1,9 +1,9 @@
-<div align=center>
-<img width="100" height="100" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" />
+<div align=center style="margin-top: -20px;">
+<img width="100" height="100" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" style="margin-bottom: -10px;" />
 
-# CopilotKit
+<h1 style="margin-top: 0; margin-bottom: 10px;">CopilotKit</h1>
 
-<p style="margin: 5px 0;">Build <strong>agent-native applications</strong> with generative UI, shared state, and human-in-the-loop workflows.</p>
+<p style="margin: 10px 0;">Build <strong>agent-native applications</strong> with generative UI, shared state, and human-in-the-loop workflows.</p>
 
 <a href="https://www.npmjs.com/package/@copilotkit/react-core" target="_blank">
   <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-core?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
