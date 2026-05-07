@@ -30,7 +30,7 @@ Build **agent-native applications** with generative UI, shared state, and human-
 
 <br/>
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 100px;">
 <tr>
 <td><a href="https://trendshift.io/repositories/5730" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5730" alt="Trendshift" width="250" height="55"/></a></td>
 <td><a href="https://www.producthunt.com/posts/copilotkit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=428778&theme=light&period=daily"></a></td>
