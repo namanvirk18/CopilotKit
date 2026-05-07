@@ -3,7 +3,7 @@
 
 # CopilotKit
 
-<p style="margin: 10px 0;">Build <strong>agent-native applications</strong> with generative UI, shared state, and human-in-the-loop workflows.</p>
+<p style="margin: 5px 0;">Build <strong>agent-native applications</strong> with generative UI, shared state, and human-in-the-loop workflows.</p>
 
 <a href="https://www.npmjs.com/package/@copilotkit/react-core" target="_blank">
   <img src="https://img.shields.io/npm/v/%40copilotkit%2Freact-core?logo=npm&logoColor=%23FFFFFF&label=Version&color=%236963ff" alt="NPM">
