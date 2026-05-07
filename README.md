@@ -1,16 +1,7 @@
 <div align=center>
-<img width="120" height="120" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" />
+<img width="100" height="100" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" />
 
 # CopilotKit
-
-<div align=center>
-
-[Docs](https://docs.copilotkit.ai/?ref=github_readme) ·
-[Examples](https://www.copilotkit.ai/examples) ·
-[Copilot Cloud](https://cloud.copilotkit.ai?ref=github_readme) ·
-[Discord](https://discord.gg/6dffbvGU3D?ref=github_readme)
-
-</div>
 
 Build **agent-native applications** with generative UI, shared state, and human-in-the-loop workflows.
 
