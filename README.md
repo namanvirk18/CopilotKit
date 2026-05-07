@@ -1,4 +1,4 @@
-<div align=center style="margin-top: -20px;">
+<div align=center style="margin-top: -10px;">
 <img width="100" height="100" alt="FavIcon" src="https://github.com/user-attachments/assets/779de607-2b8d-4751-872b-1243e97c7d18" style="margin-bottom: -10px;" />
 
 <h1 style="margin-top: 0; margin-bottom: 10px;">CopilotKit</h1>
